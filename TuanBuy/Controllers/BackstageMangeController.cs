@@ -114,9 +114,9 @@ namespace TuanBuy.Controllers
             var result = BackOrder.get();
             return result;
         }
-        //public  List<OrderBackMangeViewModel> GetOrder()
+        //public List<OrderBackMangeViewModel> GetOrder()
         //{
-        //    var order=_dbcontext.OrderDetail.ToList();
+        //    var order = _dbcontext.OrderDetail.ToList();
         //    return (order);
         //}
         //public List<UserBackMange> GetUsers()
